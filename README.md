@@ -36,4 +36,4 @@ Add(E1-3): agregar README.md
   - Las conversaciones sólo deben ser resueltas por la persona que las inició. 
   - Antes de subir los cambios, se debe procurar actualizar mi rama con la rama principal usando el comando `git pull master` y resolver los conflictos que se generen. 
   
-- Una vez la PR sea aceptada, actualizar su estado en Jira a Complete. 
+- Una vez la PR sea aceptada, actualizar su estado en Jira a Complete. # mintic-springboot-microservice
